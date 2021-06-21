@@ -5,11 +5,27 @@
   "author": "Yoshitani Kouhei",
   "cover": "https://i.imgur.com/33gtPg7.jpg",
   "chapters": {
+     "11": {
+      "title": "",
+      "volume": "01",
+      "groups": {
+        "ROCK-paper-SCISSORS & Robo Scans": "/proxy/api/imgur/chapter/sEzv6Su/"
+      },
+      "last_updated": "1621918270"
+    },
+     "12": {
+      "title": "",
+      "volume": "01",
+      "groups": {
+        "ROCK-paper-SCISSORS & Robo Scans": "/proxy/api/imgur/chapter/T9mph40/"
+      },
+      "last_updated": "1621918270"
+    },
     "13": {
       "title": "",
       "volume": "01",
       "groups": {
-        "ROCK-paper-SCISSORS, Robo Scans": "/proxy/api/imgur/chapter/WMd1rUS/"
+        "ROCK-paper-SCISSORS & Robo Scans": "/proxy/api/imgur/chapter/WMd1rUS/"
       },
       "last_updated": "1621918270"
     }
